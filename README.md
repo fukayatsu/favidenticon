@@ -2,6 +2,8 @@
 
 favicon.ico generator
 
+![](https://raw.github.com/fukayatsu/favidenticon/master/screenshots/5_2.png)
+
 ## Requirements
 
 ImageMagick
