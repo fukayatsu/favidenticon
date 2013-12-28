@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["fukayatsu@gmail.com"]
   spec.summary       = %q{favicon.ico generator}
   spec.description   = %q{favicon.ico generator}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/fukayatsu/favidenticon"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
