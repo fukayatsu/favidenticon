@@ -1,6 +1,10 @@
 # Favidenticon
 
-TODO: Write a gem description
+favicon.ico generator
+
+## Requirements
+
+ImageMagick
 
 ## Installation
 
@@ -18,7 +22,22 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+$ favidenticon
+#=> show usage
+
+$ favidenticon generate
+#=> generate favicon.ico (16x16)
+
+$ favidenticon g 'foo bar baz'
+#=> generate favicon.ico from given string
+
+$ favidenticon g --size=48
+#=> generate favicon.ico (48x48)
+
+$ favidenticon g --grid=5
+#=> generate favicon.ico which has 5 grids
+```
 
 ## Contributing
 
